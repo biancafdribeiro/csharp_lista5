@@ -1,0 +1,7 @@
+C:\Users\bibif\source\repos\Lista5_Parte1_Ex3\bin\Debug\Lista5_Parte1_Ex3.exe.config
+C:\Users\bibif\source\repos\Lista5_Parte1_Ex3\bin\Debug\Lista5_Parte1_Ex3.exe
+C:\Users\bibif\source\repos\Lista5_Parte1_Ex3\bin\Debug\Lista5_Parte1_Ex3.pdb
+C:\Users\bibif\source\repos\Lista5_Parte1_Ex3\obj\Debug\Lista5_Parte1_Ex3.csproj.AssemblyReference.cache
+C:\Users\bibif\source\repos\Lista5_Parte1_Ex3\obj\Debug\Lista5_Parte1_Ex3.csproj.CoreCompileInputs.cache
+C:\Users\bibif\source\repos\Lista5_Parte1_Ex3\obj\Debug\Lista5_Parte1_Ex3.exe
+C:\Users\bibif\source\repos\Lista5_Parte1_Ex3\obj\Debug\Lista5_Parte1_Ex3.pdb
